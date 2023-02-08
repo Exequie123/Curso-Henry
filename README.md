@@ -1,2 +1,1 @@
-# Curso-Henry
-Repositorio de prueba del modulo 2
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde githug  a mi computadora
